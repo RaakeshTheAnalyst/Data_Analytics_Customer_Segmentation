@@ -9,7 +9,7 @@ The Sales Dashboard for Customer Segmentation can be found [here](https://public
 <img src="data%20visualization/Sales%20Dashboard.gif" height="500" align="middle"><br>
 
 <b>In case of failure of loading Jupyter Notebooks on Github, the following notebooks can be found in nbviewer. Click on the respective hyperlinks to view:</b>
-- [RFM Analysis.ipynb]([https://nbviewer.jupyter.org/github.com/RaakeshTheAnalyst/Data-Analytics-Customer-Segmentation/blob/0757f0a747aeb2bec8aad5257cda8d8065436f7d/RFM%20Analysis.ipynb](https://nbviewer.org/github/RaakeshTheAnalyst/Data-Analytics-Customer-Segmentation/blob/eb73d5725a5474f4712f2285912f3025fc2258d1/RFM%20Analysis.ipynb)
+- [RFM Analysis.ipynb](https://nbviewer.org/github/RaakeshTheAnalyst/Data-Analytics-Customer-Segmentation/blob/eb73d5725a5474f4712f2285912f3025fc2258d1/RFM%20Analysis.ipynb)
 - [DQA and Data Cleaning CustomerDemographic.ipynb](https://nbviewer.jupyter.org/github.com/RaakeshTheAnalyst/Data-Analytics-Customer-Segmentation/blob/1d768a87fb2744591aaf0c8e17bb5aeecb2c3c2b/DQA%20and%20Data%20Cleaning%20CustomerDemographic.ipynb)
 - [DQA and Data Cleaning NewCustomerList.ipynb](https://nbviewer.jupyter.org/github.com/RaakeshTheAnalyst/Data-Analytics-Customer-Segmentation/blob/1d768a87fb2744591aaf0c8e17bb5aeecb2c3c2b/DQA%20and%20Data%20Cleaning%20NewCustomerList.ipynb)
 - [DQA and Data Cleaning Transactions.ipynb](https://nbviewer.jupyter.org/github.com/RaakeshTheAnalyst/Data-Analytics-Customer-Segmentation/blob/1d768a87fb2744591aaf0c8e17bb5aeecb2c3c2b/DQA%20and%20Data%20Cleaning%20Transactions.ipynb)
