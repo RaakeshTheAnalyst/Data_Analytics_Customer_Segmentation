@@ -150,4 +150,4 @@ The tools used in this project include:
 - Python 3.8.2, Tableau
 
 ## Authors
-- Raakesh Menon Ajaykumar - [Github Profile](https://github.com/AbhishekGit-hash)
+- Raakesh Menon Ajaykumar - [Github Profile](https://github.com/RaakeshTheAnalyst)
