@@ -13,7 +13,7 @@ The Sales Dashboard for Customer Segmentation can be found [here](https://public
 - [DQA and Data Cleaning CustomerDemographic.ipynb](https://nbviewer.org/github/RaakeshTheAnalyst/Data-Analytics-Customer-Segmentation/blob/eb73d5725a5474f4712f2285912f3025fc2258d1/DQA%20and%20Data%20Cleaning%20CustomerDemographic.ipynb)
 - [DQA and Data Cleaning NewCustomerList.ipynb](https://nbviewer.org/github/RaakeshTheAnalyst/Data-Analytics-Customer-Segmentation/blob/eb73d5725a5474f4712f2285912f3025fc2258d1/DQA%20and%20Data%20Cleaning%20NewCustomerList.ipynb)
 - [DQA and Data Cleaning Transactions.ipynb](https://nbviewer.org/github/RaakeshTheAnalyst/Data-Analytics-Customer-Segmentation/blob/f967ca943102ee8e5160bbf214e9dcaabd303ade/DQA%20and%20Data%20Cleaning%20Transactions.ipynb)
-- [DQA and Data Cleaning Customer Address.ipynb](https://nbviewer.jupyter.org/github.com/RaakeshTheAnalyst/Data-Analytics-Customer-Segmentation/blob/1d768a87fb2744591aaf0c8e17bb5aeecb2c3c2b/DQA%20and%20Data%20Cleaning%20Customer%20Address.ipynb)
+- [DQA and Data Cleaning Customer Address.ipynb](https://nbviewer.org/github/RaakeshTheAnalyst/Data-Analytics-Customer-Segmentation/blob/e2be5eca36da3040d522e99eb13d21259e9187b1/DQA%20and%20Data%20Cleaning%20Customer%20Address.ipynb)
 
 
 ## Analysis Approach
